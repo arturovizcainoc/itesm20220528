@@ -1,0 +1,11 @@
+{
+  "itesm20220528App": {
+    "inventarioTipo": {
+      "null": "",
+      "CAJA": "CAJA",
+      "HERRAMIENTA": "HERRAMIENTA",
+      "COMIDA": "COMIDA",
+      "ROPA": "ROPA"
+    }
+  }
+}

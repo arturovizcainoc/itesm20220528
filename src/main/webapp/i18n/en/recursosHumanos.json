@@ -1,0 +1,28 @@
+{
+  "itesm20220528App": {
+    "recursosHumanos": {
+      "home": {
+        "title": "Recursos Humanos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Recursos Humanos",
+        "createOrEditLabel": "Create or edit a Recursos Humanos",
+        "notFound": "No Recursos Humanos found"
+      },
+      "created": "A new Recursos Humanos is created with identifier {{ param }}",
+      "updated": "A Recursos Humanos is updated with identifier {{ param }}",
+      "deleted": "A Recursos Humanos is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Recursos Humanos {{ id }}?"
+      },
+      "detail": {
+        "title": "Recursos Humanos"
+      },
+      "id": "ID",
+      "nombre": "Nombre",
+      "apellidoPaterno": "Apellido Paterno",
+      "apellidoMaterno": "Apellido Materno",
+      "fechaNacimiento": "Fecha Nacimiento",
+      "puesto": "Puesto"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "itesm20220528App": {
+    "tipoPuesto": {
+      "null": "",
+      "DESARROLLADOR": "DESARROLLADOR",
+      "ADMINISTRADOR": "ADMINISTRADOR",
+      "ARQUITECTO": "ARQUITECTO",
+      "LIDER": "LIDER"
+    }
+  }
+}
